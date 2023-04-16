@@ -1,0 +1,11 @@
+E:\загруз с инета\WinRAR\Streltsov_DZ2\Streltsov_DZ2\obj\Debug\Streltsov_DZ2.csproj.AssemblyReference.cache
+E:\загруз с инета\WinRAR\Streltsov_DZ2\Streltsov_DZ2\obj\Debug\Streltsov_DZ2.csproj.SuggestedBindingRedirects.cache
+E:\загруз с инета\WinRAR\Streltsov_DZ2\Streltsov_DZ2\obj\Debug\Streltsov_DZ2.Properties.Resources.resources
+E:\загруз с инета\WinRAR\Streltsov_DZ2\Streltsov_DZ2\obj\Debug\Streltsov_DZ2.csproj.GenerateResource.cache
+E:\загруз с инета\WinRAR\Streltsov_DZ2\Streltsov_DZ2\obj\Debug\Streltsov_DZ2.csproj.CoreCompileInputs.cache
+E:\загруз с инета\WinRAR\Streltsov_DZ2\Streltsov_DZ2\bin\Debug\Streltsov_DZ2.exe.config
+E:\загруз с инета\WinRAR\Streltsov_DZ2\Streltsov_DZ2\bin\Debug\Streltsov_DZ2.exe
+E:\загруз с инета\WinRAR\Streltsov_DZ2\Streltsov_DZ2\bin\Debug\Streltsov_DZ2.pdb
+E:\загруз с инета\WinRAR\Streltsov_DZ2\Streltsov_DZ2\obj\Debug\Streltsov_DZ2.Form1.resources
+E:\загруз с инета\WinRAR\Streltsov_DZ2\Streltsov_DZ2\obj\Debug\Streltsov_DZ2.exe
+E:\загруз с инета\WinRAR\Streltsov_DZ2\Streltsov_DZ2\obj\Debug\Streltsov_DZ2.pdb
